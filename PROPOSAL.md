@@ -1,6 +1,6 @@
 Teamates:
 
-- Carlo (front-end)
+- Carlo (back-end)
 - Nupur (design)
 - Kemin (repo)
-- Maxime (back-end)
+- Maxime (front-end)
